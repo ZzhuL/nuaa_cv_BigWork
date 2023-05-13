@@ -1,6 +1,6 @@
 # nuaa_cv_BigWork || U-Net(Convolutional Networks for Biomedical Image Segmentation)
 # 该项目参考一下开源仓库
-CV大作业第二题(语义分割:基于Unet分割)
+<https://github.com/WZMIAOMIAO/deep-learning-for-image-processing/blob/master/pytorch_segmentation/unet>
 # 环境配置：
 * Python3.6/3.7/3.8
 * Pytorch1.10
